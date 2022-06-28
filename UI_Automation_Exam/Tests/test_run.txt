@@ -1,0 +1,441 @@
+1656362295.794260 - INFO - Navigate to 'https://www.list.am/'
+1656362299.882485 - INFO - Search element '//div[text()='English']'
+1656362301.035765 - INFO - Click on '//div[text()='English']'
+1656362302.026111 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656362302.251866 - INFO - Send 'house' to '//input[@id = 'idSearchBox']'
+1656362302.401768 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656362303.960960 - INFO - Search element '//*[@id = '_idcrc']//following::div[@class='me']'
+1656362304.002846 - INFO - Click on '//*[@id = '_idcrc']//following::div[@class='me']'
+1656362304.146406 - INFO - Search element '//div[text()='$ (USD)']'
+1656362304.247337 - INFO - Click on '//div[text()='$ (USD)']'
+1656362304.345935 - INFO - USD currency is set
+1656362304.345935 - INFO - Search element 'idprice1'
+1656362304.389494 - INFO - Send '0' to 'idprice1'
+1656362304.490526 - INFO - Search element 'idprice2'
+1656362304.559826 - INFO - Send '50' to 'idprice2'
+1656362304.711791 - INFO - Search element 'gobtn'
+1656362304.751375 - INFO - Click on 'gobtn'
+1656362305.898760 - INFO - Prices from 0 to 50 are set
+1656362305.898760 - INFO - Search elements '//div[@id='contentr']//a//div[@class='p']'
+1656362306.187726 - INFO - Found: 9
+1656362306.435473 - INFO - Prices list is [50, 30, 35, 39, 40, 40, 50, 41, 50]
+1656362306.435473 - INFO - Searching result is correct for the filtered prices
+1656362447.744067 - INFO - Navigate to 'https://www.list.am/'
+1656362451.140285 - INFO - Search element '//div[text()='English']'
+1656362452.025449 - INFO - Click on '//div[text()='English']'
+1656362453.158769 - INFO - Search element '//*[@id='ma']'
+1656362453.236073 - INFO - Click on '//*[@id='ma']'
+1656362453.964758 - INFO - Search element '_idyour_email'
+1656362455.892114 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656362456.020084 - INFO - Search element '_idpassword'
+1656362456.048486 - INFO - Send 'volouser' to '_idpassword'
+1656362456.123126 - INFO - Search element 'action__form_action0'
+1656362456.168098 - INFO - Click on 'action__form_action0'
+1656362457.121680 - INFO - The user has successfully logged to the system.
+1656362457.122651 - INFO - Search element 'l'
+1656362457.153703 - INFO - Click on 'l'
+1656362457.940812 - INFO - Search element 'ma'
+1656362460.484751 - INFO - Search element '//a[@href='/saved']'
+1656362460.629940 - INFO - Click on '//a[@href='/saved']'
+1656362461.061359 - INFO - Search elements '//*[@class='star']'
+1656362461.279888 - INFO - Found: 14
+1656362462.204696 - INFO - There weren't any old items
+1656362462.311410 - INFO - All favorite items were deleted
+1656362462.311410 - INFO - Search element 'l'
+1656362462.412139 - INFO - Click on 'l'
+1656362463.821969 - INFO - Search element '//a[@href = '/category/4']'
+1656362463.905745 - INFO - Click on '//a[@href = '/category/4']'
+1656362465.114211 - INFO - Search elements '//div[@id='contentr']//a'
+1656362468.508729 - INFO - Found: 116
+1656362470.923721 - INFO - Search element 'sstar'
+1656362470.982563 - INFO - Click on 'sstar'
+1656362471.159157 - INFO - The item was added to favorite with id 15549949
+1656362474.003801 - INFO - Search element 'sstar'
+1656362474.126618 - INFO - Click on 'sstar'
+1656362474.272228 - INFO - The item was added to favorite with id 17868485
+1656362476.925038 - INFO - Search element 'sstar'
+1656362476.999840 - INFO - Click on 'sstar'
+1656362477.358394 - INFO - The item was added to favorite with id 17969415
+1656362480.589963 - INFO - Search element 'sstar'
+1656362480.750531 - INFO - Click on 'sstar'
+1656362480.880758 - INFO - The item was added to favorite with id 16043987
+1656362481.239336 - INFO - Search element 'ma'
+1656362483.611552 - INFO - Search element '//a[@href='/saved']'
+1656362483.637002 - INFO - Click on '//a[@href='/saved']'
+1656362484.033612 - INFO - Search elements '//div[@id='contentr']//a'
+1656362484.306911 - INFO - Found: 16
+1656362499.922960 - INFO - Search element '//a[@href = '/category/4']'
+1656362499.986322 - INFO - Click on '//a[@href = '/category/4']'
+1656362500.742225 - INFO - Search element 'ma'
+1656362503.097345 - INFO - Search element '//a[@href='/saved']'
+1656362503.120232 - INFO - Click on '//a[@href='/saved']'
+1656362503.452635 - ERROR - Result of favorites is incorrect
+1656363745.984551 - INFO - Navigate to 'https://www.list.am/'
+1656363747.949481 - INFO - Search element '//div[text()='English']'
+1656363749.257580 - INFO - Click on '//div[text()='English']'
+1656363749.893739 - INFO - Search element '//*[@id='ma']'
+1656363749.925736 - INFO - Click on '//*[@id='ma']'
+1656363751.834156 - INFO - Search element '_idyour_email'
+1656363751.858185 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656363751.972232 - INFO - Search element '_idpassword'
+1656363751.996903 - INFO - Send 'volouser' to '_idpassword'
+1656363752.061469 - INFO - Search element 'action__form_action0'
+1656363752.106730 - INFO - Click on 'action__form_action0'
+1656363752.690065 - INFO - The user has successfully logged to the system.
+1656363752.694064 - INFO - Search element 'l'
+1656363752.718065 - INFO - Click on 'l'
+1656363753.319082 - INFO - Search element '//div[@href = '/my']//img'
+1656363753.395077 - INFO - Search element '//div[@id = 'ma']//span'
+1656363755.735370 - INFO - Search element '//a[@href='/saved']'
+1656363755.759628 - INFO - Click on '//a[@href='/saved']'
+1656363756.085638 - INFO - Search elements '//*[@class='star']'
+1656363756.344400 - INFO - Found: 16
+1656363757.121876 - INFO - There weren't any old items
+1656363757.205877 - INFO - All favorite items were deleted
+1656363757.205877 - INFO - Search element 'l'
+1656363757.253876 - INFO - Click on 'l'
+1656363758.253876 - INFO - Search element '//a[@href = '/category/4']'
+1656363758.441875 - INFO - Click on '//a[@href = '/category/4']'
+1656363759.501877 - INFO - Search elements '//div[@id='contentr']//a'
+1656363762.725874 - INFO - Found: 116
+1656363765.874482 - INFO - Search element 'sstar'
+1656363765.954482 - INFO - Click on 'sstar'
+1656363766.094482 - INFO - The item was added to favorite with id 17844016
+1656363768.514522 - INFO - Search element 'sstar'
+1656363768.562523 - INFO - Click on 'sstar'
+1656363768.782523 - INFO - The item was added to favorite with id 17928659
+1656363771.833860 - INFO - Search element 'sstar'
+1656363771.857863 - INFO - Click on 'sstar'
+1656363771.967146 - INFO - The item was added to favorite with id 17986505
+1656363773.944484 - INFO - Search element 'sstar'
+1656363773.990555 - INFO - Click on 'sstar'
+1656363774.192153 - INFO - The item was added to favorite with id 10086997
+1656363774.388152 - INFO - Search element '//div[@href = '/my']//img'
+1656363774.420155 - INFO - Search element '//div[@id = 'ma']//span'
+1656363776.749444 - INFO - Search element '//a[@href='/saved']'
+1656363776.770463 - INFO - Click on '//a[@href='/saved']'
+1656363777.088695 - INFO - Search elements '//div[@id='contentr']//a'
+1656363777.408034 - INFO - Found: 19
+1656363797.668760 - INFO - Search element '//a[@href = '/category/4']'
+1656363797.844760 - INFO - Click on '//a[@href = '/category/4']'
+1656363798.680759 - INFO - Search element '//div[@href = '/my']//img'
+1656363798.748759 - INFO - Search element '//div[@id = 'ma']//span'
+1656363801.087762 - INFO - Search element '//a[@href='/saved']'
+1656363801.106626 - INFO - Click on '//a[@href='/saved']'
+1656363801.413182 - ERROR - Result of favorites is incorrect
+1656363837.351617 - INFO - Navigate to 'https://www.list.am/'
+1656363839.800549 - INFO - Search element '//div[text()='English']'
+1656363841.070804 - INFO - Click on '//div[text()='English']'
+1656363841.990593 - INFO - Search element '//*[@id='ma']'
+1656363842.054595 - INFO - Click on '//*[@id='ma']'
+1656363844.119203 - INFO - Search element '_idyour_email'
+1656363844.145140 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656363844.250282 - INFO - Search element '_idpassword'
+1656363844.274318 - INFO - Send 'volouser' to '_idpassword'
+1656363844.350282 - INFO - Search element 'action__form_action0'
+1656363844.378281 - INFO - Click on 'action__form_action0'
+1656363845.014888 - INFO - The user has successfully logged to the system.
+1656363845.014888 - INFO - Search element 'l'
+1656363845.046891 - INFO - Click on 'l'
+1656363845.955035 - INFO - Search element '//div[@href = '/my']//img'
+1656363846.023036 - INFO - Search element '//div[@id = 'ma']//span'
+1656363848.381114 - INFO - Search element '//a[@href='/saved']'
+1656363848.405081 - INFO - Click on '//a[@href='/saved']'
+1656363848.722568 - INFO - Search elements '//*[@class='star']'
+1656363849.005448 - INFO - Found: 19
+1656363850.569137 - INFO - There weren't any old items
+1656363850.661133 - INFO - All favorite items were deleted
+1656363850.661133 - INFO - Search element 'l'
+1656363850.729134 - INFO - Click on 'l'
+1656363851.897132 - INFO - Search element '//a[@href = '/category/4']'
+1656363851.989132 - INFO - Click on '//a[@href = '/category/4']'
+1656363853.609131 - INFO - Search elements '//div[@id='contentr']//a'
+1656363856.627334 - INFO - Found: 116
+1656363858.619528 - INFO - Search element 'sstar'
+1656363858.783529 - INFO - Click on 'sstar'
+1656363858.979527 - INFO - The item was added to favorite with id 17868485
+1656363861.203886 - INFO - Search element 'sstar'
+1656363861.271886 - INFO - Click on 'sstar'
+1656363861.499886 - INFO - The item was added to favorite with id 16986455
+1656363863.369016 - INFO - Search element 'sstar'
+1656363863.534811 - INFO - Click on 'sstar'
+1656363863.666811 - INFO - The item was added to favorite with id 17957003
+1656363865.312808 - INFO - Search element 'sstar'
+1656363865.672808 - INFO - Click on 'sstar'
+1656363865.756808 - INFO - The item was added to favorite with id 17975621
+1656363865.908809 - INFO - Search element '//div[@href = '/my']//img'
+1656363865.956809 - INFO - Search element '//div[@id = 'ma']//span'
+1656363868.547046 - INFO - Search element '//a[@href='/saved']'
+1656363868.584767 - INFO - Click on '//a[@href='/saved']'
+1656363868.915971 - INFO - Search elements '//div[@id='contentr']//a'
+1656363869.278033 - INFO - Found: 17
+1656364407.581680 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028580C74F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4795a5f6a9c714c7ab59878c5d77481f
+1656364411.647013 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028580C74A30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4795a5f6a9c714c7ab59878c5d77481f
+1656364415.718423 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000028580C74850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/4795a5f6a9c714c7ab59878c5d77481f
+1656364428.938237 - INFO - Navigate to 'https://www.list.am/'
+1656364431.137559 - INFO - Search element '//div[text()='English']'
+1656364432.503096 - INFO - Click on '//div[text()='English']'
+1656364433.007387 - INFO - Search element '//*[@id='ma']'
+1656364433.075387 - INFO - Click on '//*[@id='ma']'
+1656364434.885522 - INFO - Search element '_idyour_email'
+1656364434.908098 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656364434.983563 - INFO - Search element '_idpassword'
+1656364435.010303 - INFO - Send 'volouser' to '_idpassword'
+1656364435.094117 - INFO - Search element 'action__form_action0'
+1656364435.118149 - INFO - Click on 'action__form_action0'
+1656364435.690243 - INFO - The user has successfully logged to the system.
+1656364435.690243 - INFO - Search element 'l'
+1656364435.734242 - INFO - Click on 'l'
+1656364436.381351 - INFO - Search element '//div[@href = '/my']//img'
+1656364436.421354 - INFO - Search element '//div[@id = 'ma']//span'
+1656364438.773491 - INFO - Search element '//a[@href='/saved']'
+1656364438.797931 - INFO - Click on '//a[@href='/saved']'
+1656364439.144667 - INFO - Search elements '//*[@class='star']'
+1656364439.406983 - INFO - Found: 17
+1656364440.560559 - INFO - There weren't any old items
+1656364440.741155 - INFO - All favorite items were deleted
+1656364440.741155 - INFO - Search element 'l'
+1656364440.765157 - INFO - Click on 'l'
+1656364441.554933 - INFO - Search element '//a[@href = '/category/4']'
+1656364441.650933 - INFO - Click on '//a[@href = '/category/4']'
+1656364442.827945 - INFO - Search elements '//div[@id='contentr']//a'
+1656364446.335572 - INFO - Found: 116
+1656364448.319975 - INFO - Search element 'sstar'
+1656364448.387973 - INFO - Click on 'sstar'
+1656364448.675974 - INFO - The item was added to favorite with id 17119991
+1656364451.457727 - INFO - Search element 'sstar'
+1656364451.521726 - INFO - Click on 'sstar'
+1656364451.753728 - INFO - The item was added to favorite with id 17924248
+1656364453.991920 - INFO - Search element 'sstar'
+1656364454.043919 - INFO - Click on 'sstar'
+1656364454.455920 - INFO - The item was added to favorite with id 13704892
+1656364454.739918 - INFO - Search element '//div[@href = '/my']//img'
+1656364454.803921 - INFO - Search element '//div[@id = 'ma']//span'
+1656364457.175363 - INFO - Search element '//a[@href='/saved']'
+1656364457.211324 - INFO - Click on '//a[@href='/saved']'
+1656364457.803324 - INFO - Search elements '//div[@id='contentr']//a'
+1656364458.435916 - INFO - Found: 20
+1656364482.807331 - INFO - Search element '//a[@href = '/category/4']'
+1656364482.875333 - INFO - Click on '//a[@href = '/category/4']'
+1656364483.859332 - INFO - Search element '//div[@href = '/my']//img'
+1656364483.907334 - INFO - Search element '//div[@id = 'ma']//span'
+1656364486.229196 - INFO - Search element '//a[@href='/saved']'
+1656364486.252740 - INFO - Click on '//a[@href='/saved']'
+1656364486.801484 - ERROR - Result of favorites is incorrect
+1656364832.860655 - INFO - Navigate to 'https://www.list.am/'
+1656364834.902166 - INFO - Search element '//div[text()='English']'
+1656364836.108524 - INFO - Click on '//div[text()='English']'
+1656364836.922528 - INFO - Search element '//*[@id='ma']'
+1656364837.026528 - INFO - Click on '//*[@id='ma']'
+1656364839.441886 - INFO - Search element '_idyour_email'
+1656364839.471636 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656364839.558048 - INFO - Search element '_idpassword'
+1656364839.584702 - INFO - Send 'volouser' to '_idpassword'
+1656364839.687627 - INFO - Search element 'action__form_action0'
+1656364839.711576 - INFO - Click on 'action__form_action0'
+1656364840.361871 - INFO - The user has successfully logged to the system.
+1656364840.361871 - INFO - Search element 'l'
+1656364840.394582 - INFO - Click on 'l'
+1656364841.259998 - INFO - Search element '//div[@href = '/my']//img'
+1656364841.323996 - INFO - Search element '//div[@id = 'ma']//span'
+1656364843.753511 - INFO - Search element '//a[@href='/saved']'
+1656364843.777245 - INFO - Click on '//a[@href='/saved']'
+1656364844.105998 - INFO - Search elements '//*[@class='star']'
+1656364844.394321 - INFO - Found: 20
+1656364873.597986 - INFO - Navigate to 'https://www.list.am/'
+1656364875.637095 - INFO - Search element '//div[text()='English']'
+1656364876.966177 - INFO - Click on '//div[text()='English']'
+1656364877.560326 - INFO - Search element '//*[@id='ma']'
+1656364877.588325 - INFO - Click on '//*[@id='ma']'
+1656364878.385283 - INFO - Search element '_idyour_email'
+1656364878.413699 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656364878.586342 - INFO - Search element '_idpassword'
+1656364878.619278 - INFO - Send 'volouser' to '_idpassword'
+1656364878.698528 - INFO - Search element 'action__form_action0'
+1656364878.804853 - INFO - Click on 'action__form_action0'
+1656364879.472650 - INFO - The user has successfully logged to the system.
+1656364879.472650 - INFO - Search element 'l'
+1656364879.504652 - INFO - Click on 'l'
+1656364917.010017 - INFO - Search element '//div[@href = '/my']//img'
+1656364921.152348 - INFO - Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F2D953+2414931]
+	Ordinal0 [0x00EBF5E1+1963489]
+	Ordinal0 [0x00DAC580+836992]
+	Ordinal0 [0x00DA01E2+786914]
+	Ordinal0 [0x00DA0A18+789016]
+	Ordinal0 [0x00DA22F2+795378]
+	Ordinal0 [0x00D9BCA9+769193]
+	Ordinal0 [0x00DADA30+842288]
+	Ordinal0 [0x00E03FF2+1196018]
+	Ordinal0 [0x00DF42B6+1131190]
+	Ordinal0 [0x00DCE860+976992]
+	Ordinal0 [0x00DCF756+980822]
+	GetHandleVerifier [0x0119CC62+2510274]
+	GetHandleVerifier [0x0118F760+2455744]
+	GetHandleVerifier [0x00FBEABA+551962]
+	GetHandleVerifier [0x00FBD916+547446]
+	Ordinal0 [0x00EC5F3B+1990459]
+	Ordinal0 [0x00ECA898+2009240]
+	Ordinal0 [0x00ECA985+2009477]
+	Ordinal0 [0x00ED3AD1+2046673]
+	BaseThreadInitThunk [0x76C76739+25]
+	RtlGetFullPathName_UEx [0x77B88AFF+1215]
+	RtlGetFullPathName_UEx [0x77B88ACD+1165]
+
+1656364933.230679 - INFO - Navigate to 'https://www.list.am/'
+1656364935.586297 - INFO - Search element '//div[text()='English']'
+1656364936.923032 - INFO - Click on '//div[text()='English']'
+1656364937.717709 - INFO - Search element '//*[@id='ma']'
+1656364937.765711 - INFO - Click on '//*[@id='ma']'
+1656364939.825991 - INFO - Search element '_idyour_email'
+1656364939.854371 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656364939.965499 - INFO - Search element '_idpassword'
+1656364939.994133 - INFO - Send 'volouser' to '_idpassword'
+1656364940.142697 - INFO - Search element 'action__form_action0'
+1656364940.171391 - INFO - Click on 'action__form_action0'
+1656364940.854459 - INFO - The user has successfully logged to the system.
+1656364940.854459 - INFO - Search element 'l'
+1656364940.890458 - INFO - Click on 'l'
+1656364977.466104 - INFO - Search element '//div[@href = '/my']//img'
+1656364981.607741 - INFO - Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00F2D953+2414931]
+	Ordinal0 [0x00EBF5E1+1963489]
+	Ordinal0 [0x00DAC580+836992]
+	Ordinal0 [0x00DA01E2+786914]
+	Ordinal0 [0x00DA0FB7+790455]
+	Ordinal0 [0x00DA22F2+795378]
+	Ordinal0 [0x00D9BCA9+769193]
+	Ordinal0 [0x00DADA30+842288]
+	Ordinal0 [0x00E03FF2+1196018]
+	Ordinal0 [0x00DF42B6+1131190]
+	Ordinal0 [0x00DCE860+976992]
+	Ordinal0 [0x00DCF756+980822]
+	GetHandleVerifier [0x0119CC62+2510274]
+	GetHandleVerifier [0x0118F760+2455744]
+	GetHandleVerifier [0x00FBEABA+551962]
+	GetHandleVerifier [0x00FBD916+547446]
+	Ordinal0 [0x00EC5F3B+1990459]
+	Ordinal0 [0x00ECA898+2009240]
+	Ordinal0 [0x00ECA985+2009477]
+	Ordinal0 [0x00ED3AD1+2046673]
+	BaseThreadInitThunk [0x76C76739+25]
+	RtlGetFullPathName_UEx [0x77B88AFF+1215]
+	RtlGetFullPathName_UEx [0x77B88ACD+1165]
+
+1656364993.054295 - INFO - Navigate to 'https://www.list.am/'
+1656364995.486295 - INFO - Search element '//div[text()='English']'
+1656364996.573853 - INFO - Click on '//div[text()='English']'
+1656364997.497854 - INFO - Search element '//*[@id='ma']'
+1656364997.605850 - INFO - Click on '//*[@id='ma']'
+1656364999.405855 - INFO - Search element '_idyour_email'
+1656364999.433883 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656364999.555877 - INFO - Search element '_idpassword'
+1656364999.590112 - INFO - Send 'volouser' to '_idpassword'
+1656364999.731998 - INFO - Search element 'action__form_action0'
+1656364999.764032 - INFO - Click on 'action__form_action0'
+1656365000.543968 - INFO - The user has successfully logged to the system.
+1656365000.547969 - INFO - Search element 'l'
+1656365000.579968 - INFO - Click on 'l'
+1656365086.429968 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000241787F47F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a139f285adaed9b0f775dd3ba449338f
+1656365090.493374 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000241787F5150>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a139f285adaed9b0f775dd3ba449338f
+1656365094.565216 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000241787F4D60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/a139f285adaed9b0f775dd3ba449338f
+1656383957.450854 - INFO - Navigate to 'https://www.list.am/'
+1656383961.602365 - INFO - Search element '//div[text()='English']'
+1656383962.778096 - INFO - Click on '//div[text()='English']'
+1656383964.798437 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656383964.917370 - INFO - Send 'house' to '//input[@id = 'idSearchBox']'
+1656383965.675555 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656383967.210248 - INFO - Search element '//*[@id = '_idcrc']//following::div[@class='me']'
+1656383967.259694 - INFO - Click on '//*[@id = '_idcrc']//following::div[@class='me']'
+1656383967.331891 - INFO - Search element '//div[text()='$ (USD)']'
+1656383967.533018 - INFO - Click on '//div[text()='$ (USD)']'
+1656383967.611765 - INFO - USD currency is set
+1656383967.611765 - INFO - Search element 'idprice1'
+1656383967.646576 - INFO - Send '0' to 'idprice1'
+1656383967.835117 - INFO - Search element 'idprice2'
+1656383967.871954 - INFO - Send '50' to 'idprice2'
+1656383967.951739 - INFO - Search element 'gobtn'
+1656383967.996621 - INFO - Click on 'gobtn'
+1656383968.998713 - INFO - Prices from 0 to 50 are set
+1656383968.998713 - INFO - Search elements '//div[@id='contentr']//a//div[@class='p']'
+1656383969.198166 - INFO - Found: 9
+1656383969.472505 - INFO - Prices list is [50, 30, 35, 39, 40, 40, 50, 41, 50]
+1656383969.473508 - INFO - Searching result is correct for the filtered prices
+1656383986.124591 - INFO - Navigate to 'https://www.list.am/'
+1656383992.117426 - INFO - Search element '//div[text()='English']'
+1656383992.884372 - INFO - Click on '//div[text()='English']'
+1656383994.273828 - INFO - Search element '//*[@id='ma']'
+1656383994.359598 - INFO - Click on '//*[@id='ma']'
+1656383997.813483 - INFO - Search element '_idyour_email'
+1656383997.832432 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656383997.904241 - INFO - Search element '_idpassword'
+1656383997.925186 - INFO - Send 'volouser' to '_idpassword'
+1656383997.978734 - INFO - Search element 'action__form_action0'
+1656383998.002671 - INFO - Click on 'action__form_action0'
+1656383998.640806 - INFO - The user has successfully logged to the system.
+1656383998.642800 - INFO - Search element 'l'
+1656383998.672722 - INFO - Click on 'l'
+1656383999.869201 - INFO - Search element '//div[@href = '/my']//img'
+1656383999.912087 - INFO - Search element '//div[@id = 'ma']//span'
+1656384002.340930 - INFO - Search element '//a[@href='/saved']'
+1656384002.365927 - INFO - Click on '//a[@href='/saved']'
+1656384002.822585 - INFO - Search elements '//*[@class='star']'
+1656384003.002256 - INFO - Found: 11
+1656384096.003372 - INFO - Navigate to 'https://www.list.am/'
+1656384099.961286 - INFO - Search element '//div[text()='English']'
+1656384100.713557 - INFO - Click on '//div[text()='English']'
+1656384101.745438 - INFO - Search element '//*[@id='ma']'
+1656384101.789206 - INFO - Click on '//*[@id='ma']'
+1656384104.177573 - INFO - Search element '_idyour_email'
+1656384104.198936 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656384104.299964 - INFO - Search element '_idpassword'
+1656384104.335538 - INFO - Send 'volouser' to '_idpassword'
+1656384104.390765 - INFO - Search element 'action__form_action0'
+1656384104.414044 - INFO - Click on 'action__form_action0'
+1656384105.048079 - INFO - The user has successfully logged to the system.
+1656384105.049074 - INFO - Search element 'l'
+1656384105.076003 - INFO - Click on 'l'
+1656384167.501610 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026BB0299D20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/10a4b394325bf64c399a017adc00a2fc
+1656384171.583394 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026BB0299AB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/10a4b394325bf64c399a017adc00a2fc
+1656384175.664742 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026BB02999F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/10a4b394325bf64c399a017adc00a2fc
+1656384187.311843 - INFO - Navigate to 'https://www.list.am/'
+1656384190.133180 - INFO - Search element '//div[text()='English']'
+1656384191.412860 - INFO - Click on '//div[text()='English']'
+1656384192.229661 - INFO - Search element '//*[@id='ma']'
+1656384192.341361 - INFO - Click on '//*[@id='ma']'
+1656384195.601228 - INFO - Search element '_idyour_email'
+1656384195.621119 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656384195.693508 - INFO - Search element '_idpassword'
+1656384195.711863 - INFO - Send 'volouser' to '_idpassword'
+1656384195.760733 - INFO - Search element 'action__form_action0'
+1656384195.779681 - INFO - Click on 'action__form_action0'
+1656384196.478984 - INFO - The user has successfully logged to the system.
+1656384196.480980 - INFO - Search element 'l'
+1656384196.505867 - INFO - Click on 'l'
+1656384197.369021 - INFO - Search element '//div[@href = '/my']//img'
+1656384197.461773 - INFO - Search element '//div[@id = 'ma']//span'
+1656384199.824434 - INFO - Search element '//a[@href='/saved']'
+1656384199.845858 - INFO - Click on '//a[@href='/saved']'
+1656384200.159853 - INFO - Search elements '//*[@class='star']'
+1656384210.474324 - INFO - Message: Elements '('xpath', "//*[@class='star']")' not found!
+
+1656384210.474324 - INFO - There weren't any old items
+1656384210.629312 - INFO - All favorite items were deleted
+1656384210.629312 - INFO - Search element 'l'
+1656384210.666214 - INFO - Click on 'l'
+1656384211.320332 - INFO - Search element '//a[@href = '/category/4']'
+1656384211.366209 - INFO - Click on '//a[@href = '/category/4']'
+1656384212.512672 - INFO - Search elements '//div[@id='contentr']//a'
+1656384214.162117 - INFO - Found: 116
+1656384215.644104 - INFO - Search element 'sstar'
+1656384215.680008 - INFO - Click on 'sstar'
+1656384215.767772 - INFO - The item was added to favorite with id 17846336
+1656384312.577726 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C52AFF1960>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fa53c037abbc0af2d1897ec1b6b67376
+1656384316.612187 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C52AFF19F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fa53c037abbc0af2d1897ec1b6b67376
+1656384320.698255 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C52AFF1840>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/fa53c037abbc0af2d1897ec1b6b67376

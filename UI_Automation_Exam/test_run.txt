@@ -1,0 +1,116 @@
+1656362873.719721 - INFO - Navigate to 'https://www.list.am/'
+1656362876.609371 - INFO - Search element '//div[text()='English']'
+1656362877.368922 - INFO - Click on '//div[text()='English']'
+1656362878.428849 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656362878.532574 - INFO - Send 'house' to '//input[@id = 'idSearchBox']'
+1656362878.736359 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656362879.913726 - INFO - Search element '//*[@id = '_idcrc']//following::div[@class='me']'
+1656362879.959605 - INFO - Click on '//*[@id = '_idcrc']//following::div[@class='me']'
+1656362880.039389 - INFO - Search element '//div[text()='$ (USD)']'
+1656362880.105223 - INFO - Click on '//div[text()='$ (USD)']'
+1656362880.204956 - INFO - USD currency is set
+1656362880.204956 - INFO - Search element 'idprice1'
+1656362880.261814 - INFO - Send '0' to 'idprice1'
+1656362880.420249 - INFO - Search element 'idprice2'
+1656362880.483043 - INFO - Send '50' to 'idprice2'
+1656362880.662427 - INFO - Search element 'gobtn'
+1656362880.717280 - INFO - Click on 'gobtn'
+1656362881.661507 - INFO - Prices from 0 to 50 are set
+1656362881.663501 - INFO - Search elements '//div[@id='contentr']//a//div[@class='p']'
+1656362881.859976 - INFO - Found: 9
+1656362882.094044 - INFO - Prices list is [50, 30, 35, 39, 40, 40, 50, 41, 50]
+1656362882.095088 - INFO - Searching result is correct for the filtered prices
+1656362885.704805 - INFO - Navigate to 'https://www.list.am/'
+1656362888.742738 - INFO - Search element '//div[text()='English']'
+1656362889.509239 - INFO - Click on '//div[text()='English']'
+1656362890.450195 - INFO - Search element '//*[@id='ma']'
+1656362890.541059 - INFO - Click on '//*[@id='ma']'
+1656362892.835466 - INFO - Search element '_idyour_email'
+1656362892.862399 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656362892.974226 - INFO - Search element '_idpassword'
+1656362893.002762 - INFO - Send 'volouser' to '_idpassword'
+1656362893.099254 - INFO - Search element 'action__form_action0'
+1656362893.126430 - INFO - Click on 'action__form_action0'
+1656362893.794284 - INFO - The user has successfully logged to the system.
+1656362893.795286 - INFO - Search element 'l'
+1656362893.829360 - INFO - Click on 'l'
+1656362912.880328 - INFO - Search element 'ma'
+1656362916.969546 - INFO - Message: chrome not reachable
+  (Session info: chrome=102.0.5005.115)
+
+1656363162.833758 - INFO - Navigate to 'https://www.list.am/'
+1656363165.928603 - INFO - Search element '//div[text()='English']'
+1656363166.715632 - INFO - Click on '//div[text()='English']'
+1656363167.719592 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656363167.820320 - INFO - Send 'house' to '//input[@id = 'idSearchBox']'
+1656363167.957953 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656363169.369503 - INFO - Search element '//*[@id = '_idcrc']//following::div[@class='me']'
+1656363169.418375 - INFO - Click on '//*[@id = '_idcrc']//following::div[@class='me']'
+1656363169.562000 - INFO - Search element '//div[text()='$ (USD)']'
+1656363169.622669 - INFO - Click on '//div[text()='$ (USD)']'
+1656363169.725391 - INFO - USD currency is set
+1656363169.726389 - INFO - Search element 'idprice1'
+1656363169.783237 - INFO - Send '0' to 'idprice1'
+1656363169.953100 - INFO - Search element 'idprice2'
+1656363170.002968 - INFO - Send '50' to 'idprice2'
+1656363170.190466 - INFO - Search element 'gobtn'
+1656363170.239820 - INFO - Click on 'gobtn'
+1656363171.097923 - INFO - Prices from 0 to 50 are set
+1656363171.097923 - INFO - Search elements '//div[@id='contentr']//a//div[@class='p']'
+1656363171.288043 - INFO - Found: 9
+1656363171.617622 - INFO - Prices list is [50, 30, 35, 39, 40, 40, 50, 41, 50]
+1656363171.617622 - INFO - Searching result is correct for the filtered prices
+1656363175.455537 - INFO - Navigate to 'https://www.list.am/'
+1656363178.139049 - INFO - Search element '//div[text()='English']'
+1656363179.117701 - INFO - Click on '//div[text()='English']'
+1656363180.049446 - INFO - Search element '//*[@id='ma']'
+1656363180.137779 - INFO - Click on '//*[@id='ma']'
+1656363182.320783 - INFO - Search element '_idyour_email'
+1656363182.366658 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656363182.530737 - INFO - Search element '_idpassword'
+1656363182.559659 - INFO - Send 'volouser' to '_idpassword'
+1656363182.715092 - INFO - Search element 'action__form_action0'
+1656363182.743852 - INFO - Click on 'action__form_action0'
+1656363183.479836 - INFO - The user has successfully logged to the system.
+1656363183.480833 - INFO - Search element 'l'
+1656363183.517411 - INFO - Click on 'l'
+1656363524.369049 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001A1C1CF9DE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/40a9d698518051a44624dcb0836963f7
+1656363537.800375 - INFO - Navigate to 'https://www.list.am/'
+1656363539.853635 - INFO - Search element '//div[text()='English']'
+1656363541.243708 - INFO - Click on '//div[text()='English']'
+1656363542.033995 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656363542.122460 - INFO - Send 'house' to '//input[@id = 'idSearchBox']'
+1656363542.272490 - INFO - Search element '//input[@id = 'idSearchBox']'
+1656363543.474578 - INFO - Search element '//*[@id = '_idcrc']//following::div[@class='me']'
+1656363543.514987 - INFO - Click on '//*[@id = '_idcrc']//following::div[@class='me']'
+1656363543.614566 - INFO - Search element '//div[text()='$ (USD)']'
+1656363543.670572 - INFO - Click on '//div[text()='$ (USD)']'
+1656363543.784569 - INFO - USD currency is set
+1656363543.784569 - INFO - Search element 'idprice1'
+1656363543.844568 - INFO - Send '0' to 'idprice1'
+1656363543.971558 - INFO - Search element 'idprice2'
+1656363544.023560 - INFO - Send '50' to 'idprice2'
+1656363544.164424 - INFO - Search element 'gobtn'
+1656363544.208426 - INFO - Click on 'gobtn'
+1656363545.295983 - INFO - Prices from 0 to 50 are set
+1656363545.295983 - INFO - Search elements '//div[@id='contentr']//a//div[@class='p']'
+1656363545.543246 - INFO - Found: 9
+1656363545.816434 - INFO - Prices list is [50, 30, 35, 39, 40, 40, 50, 41, 50]
+1656363545.816434 - INFO - Searching result is correct for the filtered prices
+1656363549.135004 - INFO - Navigate to 'https://www.list.am/'
+1656363552.078266 - INFO - Search element '//div[text()='English']'
+1656363553.017125 - INFO - Click on '//div[text()='English']'
+1656363553.900459 - INFO - Search element '//*[@id='ma']'
+1656363554.032799 - INFO - Click on '//*[@id='ma']'
+1656363556.279065 - INFO - Search element '_idyour_email'
+1656363556.308524 - INFO - Send 'voloautomation@gmail.com' to '_idyour_email'
+1656363556.421648 - INFO - Search element '_idpassword'
+1656363556.449647 - INFO - Send 'volouser' to '_idpassword'
+1656363556.537071 - INFO - Search element 'action__form_action0'
+1656363556.565068 - INFO - Click on 'action__form_action0'
+1656363557.301089 - INFO - The user has successfully logged to the system.
+1656363557.301089 - INFO - Search element 'l'
+1656363557.336832 - INFO - Click on 'l'
+1656363721.882812 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000265C83AA0E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe9f6fbefd04ee8cb4052e28c2f7228
+1656363723.903563 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000265C83A9ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe9f6fbefd04ee8cb4052e28c2f7228
+1656363725.943254 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000265C83A9F90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5fe9f6fbefd04ee8cb4052e28c2f7228
